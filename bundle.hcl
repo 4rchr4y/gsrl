@@ -5,6 +5,7 @@ package {
   description = "Some description about 'goray' bundle."
 }
 
-require {
-
+require "some_requirement" {
+    name    = "some_dependency"
+    version = "1.0.0"
 }
