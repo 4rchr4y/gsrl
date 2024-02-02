@@ -25,18 +25,3 @@ modules {
     require = null
   }
 }
-
-require {
-  bundle "github.com/4rchr4y/gst" direct {
-    name    = "goray"
-    version = "v0.1.0"
-    h1      = "a66a8f0af27378b93a64288e93168ee2be38449e6a46a82103a604735978cce6"
-    h2      = "507219a01246d208db5954c23baed6fbde96990093fdb51e66736bc6087851ce"
-  }
-  bundle "github.com/4rchr4y/gst" indirect {
-    name    = "goray"
-    version = "0.0.0+20240128102927-ab4647768668"
-    h1      = "d96ee4281ed9c1e23a7a535a20ad0347a76e2fb278bbbf971a97965c35b17cb5"
-    h2      = "507219a01246d208db5954c23baed6fbde96990093fdb51e66736bc6087851ce"
-  }
-}
