@@ -8,6 +8,6 @@ package {
 require {
   bundle "github.com/4rchr4y/gst" {
     name    = "goray"
-    version = "v0.0.0+20240128102927-ab4647768668"
+    version = "v0.1.0"
   }
 }
