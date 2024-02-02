@@ -4,10 +4,3 @@ package {
   repository  = "github.com/4rchr4y/gst"
   description = "Some description about 'goray' bundle."
 }
-
-require {
-  bundle "github.com/4rchr4y/gst" {
-    name    = "goray"
-    version = "v0.1.0"
-  }
-}
