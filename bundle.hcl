@@ -5,9 +5,3 @@ package {
   description = "Some description about 'goray' bundle."
 }
 
-require {
-  bundle "github.com/4rchr4y/gst" {
-    name    = "goray"
-    version = "v0.0.0+20240202154313-f9efbacdd77b"
-  }
-}
