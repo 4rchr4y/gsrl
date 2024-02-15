@@ -20,7 +20,7 @@ modules {
     require = []
   }
   mod "goray.go.util.ast" {
-    source  = "go/utils/ast.rego"
+    source  = "go/util/ast.rego"
     sum     = "3ac2b7f103168c03f763961cd49d565fe9c5556094b9a4335fc3f1a753d6f26f"
     require = []
   }
