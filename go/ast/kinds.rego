@@ -1,4 +1,4 @@
-package goray.go.ast.kinds
+package go.ast.kinds
 
 bad :="bad"
 _package :="package"
