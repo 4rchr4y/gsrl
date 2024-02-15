@@ -1,7 +1,5 @@
 package goray.go.ast.kinds
 
-import data.go.ast.tokens
-
 bad :="bad"
 _package :="package"
 const :="const"
