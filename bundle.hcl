@@ -4,3 +4,5 @@ package {
   repository  = "github.com/4rchr4y/gst"
   description = "Some description about 'goray' bundle."
 }
+
+require {}
