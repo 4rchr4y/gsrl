@@ -5,4 +5,5 @@ package {
   description = "Some description about 'goray' bundle."
 }
 
-require {}
+require {
+}
