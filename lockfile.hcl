@@ -26,5 +26,4 @@ modules {
   }
 }
 
-require {
-}
+require {}
