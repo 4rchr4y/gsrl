@@ -6,3 +6,5 @@ package {
 }
 
 require {}
+
+internal = null
