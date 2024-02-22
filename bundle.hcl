@@ -7,4 +7,7 @@ package {
 
 require {}
 
-internal = null
+config {
+  internal = []
+  builtin  = ["rego"]
+}
