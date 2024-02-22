@@ -22,9 +22,7 @@ consist {
   module "goray.go.util.ast" public {
     source  = "go/util/ast.rego"
     sum     = "056ee88bf4a860d837681c714abe80dff53d6beba2417d3fa225279731f3c639"
-    require = [
-			
-		]
+    require = null
   }
 }
 
