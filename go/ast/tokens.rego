@@ -1,4 +1,4 @@
-package go.ast.tokens
+package goray.go.ast.tokens
 
 illegal := "ILLEGAL"
 eof := "EOF"
