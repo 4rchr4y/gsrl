@@ -5,9 +5,9 @@ package {
   description = "Some description about 'goray' bundle."
 }
 
-require {}
-
-config {
+workspace {
   internal = []
   builtin  = ["rego"]
 }
+
+require {}
